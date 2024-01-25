@@ -4,10 +4,10 @@
   "description": "Develop an API that provides the availability of a doctor on a specified date and time. The API",
   "main": "index.js",
   "scripts": {
-    "build": "npm i",
-    "test": "npm run test",
+    "build": "npm install",
+     "test": "echo \"Error: no test specified\" && exit 1",
 
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "keywords": [
     "node.js",
